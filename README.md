@@ -4,12 +4,13 @@ A modern, full-stack social networking application built with React, TypeScript,
 
 ## Data Structures and Algorithms (DSA) Implementations
 
-This project heavily utilizes specific data structures and algorithms to optimize performance and deliver a smooth user experience. You can find these implementations in `client/src/utils/`.
+This project heavily utilizes specific data structures and algorithms to optimize performance and deliver a smooth user experience. You can find these implementations in `client/src
+.
 
 ### 1. Merge Sort (Sorting & Ranking)
 - **File**: `sorting.ts`
 - **Use Case**: Ranks feed posts based on a composite score combining recency and engagement (likes, comments, shares).
-- **Why**: Provides a guaranteed `O(n log n)` stable sort, ensuring that posts with identical engagement metrics maintain their relative chronological order. 
+- Why : Provides a guaranteed `O(n log n)` stable sort, ensuring that posts with identical engagement metrics maintain their relative chronological order. 
 
 ### 2. Binary Search 
 - **File**: `sorting.ts`
